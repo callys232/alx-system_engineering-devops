@@ -1,1 +1,1 @@
-script that creates the directories
+13-symbolic_link
