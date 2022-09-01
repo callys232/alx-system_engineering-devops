@@ -1,1 +1,1 @@
-Create a script that creates a directory name
+Create a script in tmp
