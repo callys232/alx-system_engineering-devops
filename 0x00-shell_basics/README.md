@@ -1,1 +1,1 @@
-Deleting directories
+script that lists all files
