@@ -1,1 +1,1 @@
-current directory contents, including hidden files
+Create a script that creates a directory name
