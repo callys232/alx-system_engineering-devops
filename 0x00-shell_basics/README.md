@@ -1,1 +1,1 @@
-Create a symbolic link
+Printing symbols
