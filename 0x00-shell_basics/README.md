@@ -1,1 +1,1 @@
-Welcoming
+script that creates the directories
