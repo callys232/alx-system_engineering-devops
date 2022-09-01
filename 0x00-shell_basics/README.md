@@ -1,1 +1,1 @@
-create a file that creates another
+Create a script that creates a directory name
