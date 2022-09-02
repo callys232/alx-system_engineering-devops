@@ -1,1 +1,1 @@
-Dirrectories
+More directories
