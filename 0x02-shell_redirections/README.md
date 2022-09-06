@@ -1,1 +1,1 @@
-Printing gifs
+displaying gifs
