@@ -1,1 +1,1 @@
-adds to numbers stored
+this is the global var
