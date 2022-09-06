@@ -1,1 +1,1 @@
-Outputing empties
+Printing gifs
